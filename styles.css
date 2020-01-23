@@ -1,0 +1,26 @@
+img {
+    width: 300px;
+}
+
+.team {
+    background-color: red;
+}
+
+.trophy {
+    background-color: purple;
+}
+
+body {
+    background-color: gray;
+}
+
+.anaconda {
+    background-color: aqua;
+}
+
+.joker {
+    background-color: green;
+}
+.la{
+    text-align:center;
+}
